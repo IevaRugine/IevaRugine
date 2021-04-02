@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ieva. I'm passionate beginner programmer learning to write code.  
+I'm Ieva. I am passionate developer, learing to write efficient and clean code.  
 
 🛠  Tech Stack:
 🌐   HTML CSS JavaScript 
